@@ -1,32 +1,37 @@
 [
   {
-    "icon": "GrinAlt",
-    "name": "chmlfrp官方页面",
-    "link": "https://panel.chmlfrp.cn/"
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.imsyy.top/"
   },
   {
-    "icon": "GrinHeartsRegular",
-    "name": "chmlfrpV3官方页面",
-    "link": "https://preview.panel.chmlfrp.cn/"
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.imsyy.top/"
   },
   {
-    "icon": "GrinAlt",
-    "name": "chmlfrp镜像站",
-    "link": "https://cf.milkymay.top/"
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "GrinHeartsRegular",
-    "name": "chmlfrpV3镜像站",
-    "link": "https://preview-cf.milkymay.top/"
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集",
+    "link": "https://web.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "网页监控",
-    "link": "https://status.milkymay.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "论坛",
-    "link": "https://bbs.milkymay.top/"
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
   }
 ]
